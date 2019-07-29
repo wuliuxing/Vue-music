@@ -15,3 +15,13 @@ cnpm / yarn run serve
 
 
 ![](https://github.com/wuliuxing/img-All/blob/master/images/1.png)
+
+
+
+![](https://github.com/wuliuxing/img-All/blob/master/images/2.png)
+
+
+
+![](https://github.com/wuliuxing/img-All/blob/master/images/3.png)
+
+
