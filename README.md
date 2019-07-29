@@ -1,13 +1,11 @@
+
 # dome2
 
-## Project setup
+# usage
 ```
-yarn install
-```
+cnpm / yarn install
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
+cnpm / yarn run serve
 ```
 
 ### Compiles and minifies for production
